@@ -1,0 +1,48 @@
+# Miscellaneous
+/alcsafe_mobile/*.class
+/alcsafe_mobile/*.log
+/alcsafe_mobile/*.pyc
+/alcsafe_mobile/*.swp
+/alcsafe_mobile/.DS_Store
+/alcsafe_mobile/.atom/
+/alcsafe_mobile/.buildlog/
+/alcsafe_mobile/.history
+/alcsafe_mobile/.svn/
+
+# IntelliJ related
+/alcsafe_mobile/*.iml
+/alcsafe_mobile/*.ipr
+/alcsafe_mobile/*.iws
+/alcsafe_mobile/.idea/
+
+/alcsafe_mobile/.gitignore
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+/alcsafe_mobile/.dart_tool/
+/alcsafe_mobile/.flutter-plugins
+/alcsafe_mobile/.flutter-plugins-dependencies
+/alcsafe_mobile/.packages
+/alcsafe_mobile/.pub-cache/
+/alcsafe_mobile/.pub/
+/alcsafe_mobile/build/
+
+# Web related
+/alcsafe_mobile/lib/generated_plugin_registrant.dart
+
+# Symbolication related
+/alcsafe_mobile/app.*.symbols
+
+# Obfuscation related
+/alcsafe_mobile/app.*.map.json
+
+# Android Studio will place build artifacts here
+/alcsafe_mobile/android/app/debug
+/alcsafe_mobile/android/app/profile
+/alcsafe_mobile/android/app/release
